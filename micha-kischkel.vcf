@@ -1,13 +1,14 @@
 BEGIN:VCARD
-VERSION:4.0
+VERSION:3.0
 REV:20260312T092244Z
-N:Kischkel;Micha;;;
+N;CHARSET=UTF-8:Kischkel;Micha;;;
 FN;CHARSET=UTF-8:Micha Kischkel
-ORG;CHARSET=UTF-8:FAHR-ZEIT Personalleasing GmbH & Co. KG;
-TITLE;CHARSET=UTF-8=:Bereichsleiter Süd
-EMAIL;TYPE=WORK,INTERNET:micha.kischkel@fahr-zeit.de
-TEL;TYPE=WORK,VOICE:+49 175 244 67 53
-ADR;TYPE=WORK,POSTAL;CHARSET=UTF-8:;;Zeppelinstraße 63;München;;81669;
-URL:www.fahr-zeit.de
+ORG;CHARSET=UTF-8:FAHR-ZEIT Personalleasing GmbH & Co. KG
+TITLE;CHARSET=UTF-8:Bereichsleiter Süd
+EMAIL;TYPE=INTERNET,Work:micha.kischkel@fahr-zeit.de
+TEL;TYPE=CELL,Voice:+491752446753
+ADR;TYPE=Work;CHARSET=UTF-8:;;Zeppelinstraße 63;München;;81669;Germany
+URL:https://www.fahr-zeit.de
 END:VCARD
+
 

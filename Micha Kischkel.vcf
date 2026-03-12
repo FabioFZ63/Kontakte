@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.0
+REV:20260312T092244Z
+N:Kischkel;Micha;;;
+FN:Micha Kischkel
+ORG:FAHR-ZEIT Personalleasing GmbH & Co. KG;
+TITLE;ALTID=:Bereichsleiter Süd
+EMAIL;TYPE=WORK,INTERNET:micha.kischkel@fahr-zeit.de
+TEL;TYPE=WORK,VOICE:+49 175 244 67 53
+ADR;TYPE=WORK,POSTAL:;;Zeppelinstraße 63;München;;81669;
+URL:www.fahr-zeit.de
+END:VCARD
